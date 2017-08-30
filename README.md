@@ -2,7 +2,7 @@
 
 秒杀
 
-#使用
+# 使用
 
 需要PHP+MySQL+apache/nginx环境，PHP的redis扩展。
 
